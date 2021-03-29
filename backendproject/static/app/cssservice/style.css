@@ -1,0 +1,216 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+body {
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    text-align: left;
+}
+.menu{
+    background-color: #007bff;
+}
+.logo {
+    max-width: 100%;
+    margin-top: 9px;
+}
+.mainmenu-in ul {
+    padding: 0px;
+    margin-bottom: 0px;
+}
+.mainmenu-in ul li {
+    position: relative;
+    list-style: none;
+    margin: 0;
+    display: inline-block;
+}
+.mainmenu-in ul li >a {
+    margin: 0 auto;
+    position: relative;
+    padding: 30px 12px;
+    color: #fff;
+    font-weight: 500;
+    font-family: "Montserrat",sans-serif;
+    display: block;
+    font-size: 15px;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+.mainmenu-btn {
+    padding-top: 14px;
+}
+.mainmenu-btn a {
+    background: #086ad8;
+    color: #fff;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-bottom: 0;
+    padding: 0 36px;
+    text-align: center;
+    text-transform: capitalize;
+    transition: all 0.3s ease 0s;
+    position: relative;
+    min-height: 56px;
+    line-height: 56px;
+    border-radius: 5px;
+}
+.inter-section{
+    background-image: url(../img/bg-8.jpg);
+    min-height: 400px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text-center{
+    text-align: center;
+}
+.inter-title{
+    position: relative;
+    top: 50%;
+}
+.inter-title h1 {
+    color: #fff;
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 4px;
+    text-transform: capitalize;
+}
+.inter-menu ul {
+    margin: 0px;
+    padding: 0px;
+}
+.inter-menu ul li {
+    display: inline-block;
+    padding: 0 10px;
+    text-transform: capitalize;
+}
+.inter-menu ul li a {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;
+    transition: all 0.3s ease 0s;
+}
+.inter-menu span {
+    color: #007bff;
+    font-size: 15px;
+    font-weight: 400;
+}
+.service-section {
+    background: #f4f9fc;
+    padding-top: 110px;
+    padding-bottom: 80px;
+}
+.section-title{
+    padding-bottom: 60px;
+}
+.section-title span{
+    color: #666;
+    display: block;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+.section-title h2 {
+    font-size: 45px;
+    line-height: 1.17em;
+    margin: 0;
+    font-weight: 700;
+}
+.service-grid{
+    margin-bottom: 30px;
+}
+.services-grid .grid {
+    text-align: center;
+    padding: 40px 40px;
+    background: #fff;
+}
+.services-grid .service-icon {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.item {
+    margin-bottom: 30px;
+}
+.grid h3 {
+    font-weight: 600;
+    color: #000;
+    padding-top: 7px;
+    font-size: 22px;
+}
+.grid p {
+    padding-top: 15px;
+    line-height: 30px;
+    font-size: 15px;
+    color: #7a8595;
+}
+.contact-section{
+    background-image: url(../img/inner.jpg);
+    min-height: 400px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 110px;
+    padding-bottom: 80px;
+}
+.contact-title {
+    padding-left: 18px;
+    margin-top: 30px;
+}
+.contact-title span {
+    color: #fff;
+    display: block;  
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 22px;
+    text-transform: uppercase;
+}
+.contact-title h2 {
+    font-size: 45px;
+    line-height: 60px;
+    margin: 0;
+    color: #fff;
+    margin-top: 20px;
+    font-weight: 700;
+}
+.contact-title p {
+    color: #d7d8da;
+    font-size: 15px;
+    line-height: 30px;
+    margin-top: 26px;
+    margin-bottom: 0;
+}
+.contact-title a {
+    margin-top: 40px;
+    color: #fff;
+    background: #086ad8;
+    color: #fff;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-bottom: 0;
+    padding: 0 36px;
+    text-align: center;
+    text-transform: capitalize;
+    transition: all 0.3s ease 0s;
+    position: relative;
+    min-height: 56px;
+    line-height: 56px;
+    border-radius: 5px;
+}
+.commentary {
+    background-color: #fff!important;
+    padding: 50px;
+}
+.commentary form {
+    margin-bottom: 20px;
+    float: left;
+}
