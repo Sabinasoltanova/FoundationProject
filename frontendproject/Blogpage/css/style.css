@@ -1,0 +1,128 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+body {
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    text-align: left;
+}
+.menu{
+    background-color: #007bff;
+}
+.logo {
+    max-width: 100%;
+    margin-top: 9px;
+}
+.mainmenu-in ul {
+    padding: 0px;
+    margin-bottom: 0px;
+}
+.mainmenu-in ul li {
+    position: relative;
+    list-style: none;
+    margin: 0;
+    display: inline-block;
+}
+.mainmenu-in ul li >a {
+    margin: 0 auto;
+    position: relative;
+    padding: 30px 12px;
+    color: #fff;
+    font-weight: 500;
+    font-family: "Montserrat",sans-serif;
+    display: block;
+    font-size: 15px;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+.mainmenu-btn {
+    padding-top: 14px;
+}
+.mainmenu-btn a {
+    background: #086ad8;
+    color: #fff;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-bottom: 0;
+    padding: 0 36px;
+    text-align: center;
+    text-transform: capitalize;
+    transition: all 0.3s ease 0s;
+    position: relative;
+    min-height: 56px;
+    line-height: 56px;
+    border-radius: 5px;
+}
+.inter-section{
+    background-image: url(../img/bg-8.jpg);
+    min-height: 400px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text-center{
+    text-align: center;
+}
+.inter-title{
+    position: relative;
+    top: 50%;
+}
+.inter-title h1 {
+    color: #fff;
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 4px;
+    text-transform: capitalize;
+}
+.inter-menu ul {
+    margin: 0px;
+    padding: 0px;
+}
+.inter-menu ul li {
+    display: inline-block;
+    padding: 0 10px;
+    text-transform: capitalize;
+}
+.inter-menu ul li a {
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;
+    transition: all 0.3s ease 0s;
+}
+.inter-menu span {
+    color: #007bff;
+    font-size: 15px;
+    font-weight: 400;
+}
+.blog-area{
+    background: #f4f9fc;
+}
+.section-title{
+    padding-bottom: 60px;
+    text-align: center;
+    padding-top: 110px;
+    padding-bottom: 80px;
+}
+.section-title h2{
+    font-size: 45px;
+    line-height: 1.17em;
+    margin: 0;
+    font-weight: 700;
+}
+.section-title p{
+    padding-top: 15px;
+    color: #7a8595;
+    max-width: 500px;
+    margin: 0 auto;
+    font-weight: 400;
+    font-size: 15px;
+    margin-top: 15px;
+    line-height: 30px;
+}
+
+
